@@ -2,6 +2,8 @@
 
 ℹ️ Este README fornece uma visão geral e instruções de uso para o Aplicativo Web Pokedex. O aplicativo permite aos usuários buscar Pokémon por nome ou número, exibindo sua imagem, nome e número correspondentes. Também inclui botões de navegação para percorrer os Pokémon sequencialmente.
 
+![pokemon](https://github.com/IsaMocellin/pokedex/assets/131546311/8203d486-4967-4b9e-b502-b310b3da7d42)
+
 ## Recursos
 
 - 🔎 **Busca por Nome ou Número:** Os usuários podem inserir o nome ou número de um Pokémon para buscar.
